@@ -22,3 +22,5 @@ git branch test
 add branch dev2
 test git stash
 testing git stash
+this is a issue,need to fix.
+add another branch,name dev3.
